@@ -13,16 +13,16 @@
 
 #### 👨‍💻 Languages
 `Python` `JavaScript` `C++` `SQL`
-'Java' 'TypeScript' 'Go' 'Rust'
+`Java` `TypeScript` `Go` `Rust`
 
 #### 🚀 Frameworks & Libraries
-`Node.js` `Express.js` `FastAPI` `Flask` ' NestJS' `OpenCV` `TensorFlow` `Pytorch` `scikit-learn`
+`Node.js` `Express.js` `FastAPI` `Flask`  `NestJS` `OpenCV` `TensorFlow` `Pytorch` `scikit-learn`
 
 #### 🛢️ Databases
 `MongoDB` `PostgreSQL` `Redis`
 
 #### 🧰 Tools & DevOps
-`Docker` `GitHub Actions` `Heroku` `Render` 'Git' 'Postman'
+`Docker` `GitHub Actions` `Heroku` `Render` `Git` `Postman`
 
 ### 📫 Connect with Me
 
