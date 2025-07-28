@@ -29,6 +29,6 @@
 - 🧠 [Netflix clone using frontend language](https://github.com/Pranaykamble000/Netflix-Clone) - Build with **HTML**, **CSS**, and **Javascript**(Fully responsive Netflix UI)
 ### 📫 Connect with Me
 
-- **[LinkedIn]**(https://www.linkedin.com/in/pranay-kamble-180b89367)
-- **[GitHub]**(https://github.com/pranaykamble)
+- 🔗 **[LinkedIn]:**(https://www.linkedin.com/in/pranay-kamble-180b89367)
+- **[GitHub]:**(https://github.com/pranaykamble)
 - ✉️ **Email:** pranaykamble102007@gmail.com
