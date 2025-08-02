@@ -25,10 +25,13 @@
 `Docker` `GitHub Actions` `Heroku` `Render` `Git` `Postman`
 
 ### 🧩 Projects 
-- 🔭 [ Repsonsible AI Dash Board (RADD)](https://github.com/Pranaykamble000/RADD) - AI + Ethics + Explainable AI project
-- 🧠 [Netflix clone using frontend language](https://github.com/Pranaykamble000/Netflix-Clone) - Build with **HTML**, **CSS**, and **Javascript**(Fully responsive Netflix UI)
+- 🔭 [ Repsonsible AI Dash Board (RADD)](https://github.com/Pranaykamble000/RADD) - AI + Ethics + Explainable AI project.
+- 🧠 [Netflix clone using frontend language](https://github.com/Pranaykamble000/Netflix-Clone) - Built with **HTML**, **CSS**, and **Javascript**(Fully responsive Netflix UI).
+- 🔎 [Vehicle Speed Detector](https://github.com/Pranaykamble000/vehicle-speed-detection) - Built with yhe help of python libraries like **openCV**, **YOLOv8**, **Deep SORT** , **Ultralytics**, **Numpy**, **Pandas**
+
 ### 📫 Connect with Me
 
-- 🔗 **[LinkedIn]:**(https://www.linkedin.com/in/pranay-kamble-180b89367)
+- **[LinkedIn]:**(https://www.linkedin.com/in/pranay-kamble-180b89367)
 - **[GitHub]:**(https://github.com/pranaykamble)
 - ✉️ **Email:** pranaykamble102007@gmail.com
+- 
