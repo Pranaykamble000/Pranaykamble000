@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 #### 👨‍💻 Languages
-`Python` `JavaScript` `C++` `SQL`
+`Python`![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) `JavaScript` `C++` `SQL`
 `Java` `TypeScript` `Go` `Rust`
 
 #### 🚀 Frameworks & Libraries
