@@ -50,7 +50,7 @@
 
 ### 📫 Connect with Me
 
-- **[LinkedIn]:**(https://www.linkedin.com/in/pranay-kamble-180b89367)
-- **[GitHub]:**(https://github.com/pranaykamble)
-- ✉️ **Email:** pranaykamble102007@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-kamble-180b89367)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranaykamble)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaykamble102007@gmail.com)
 
