@@ -1,133 +1,136 @@
 <h1 align="center">Hi 👋, I'm Pranay Kamble</h1>
+
 <h3 align="center">Aspiring Backend Developer & Quant Developer | AI & ML Enthusiastic </h3>
+
+---
 
 ## 🚀 About Me
 
 - 🎓 Preparing for **IIT JEE Advanced 2026** | Goal: **IIT Bombay - CSE**
-- 💻 Currently building: Real-time **Vehicle Speed Detection** using **YOLOv8 + Deep SORT + OpenCV**
-- 🌱 Learning **DSA**, **Backend Dev**, **AI Ethics**, and **System Design**
-- 🎯 Long-term Goal: Work in **HFT Firms**, **DE Shaw**, or **Big Tech**
-- 🧠 Passionate about **Mathematics**, **Physics**, and solving complex problems
+- 💻 Currently building: Real-time **Vehicle Speed Detection** using **YOLOv8 + Deep SORT + OpenCV**.
+- 🌱 Learning **DSA**, **Backend Dev**, **AI Ethics**, and **System Design**.
+- 🎯 Long-term Goal: Work in **HFT Firms**, **DE Shaw**, or **Big Tech**.
+- 🧠 Passionate about **Mathematics**, **Physics**, and solving complex problems.
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
 
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
+| ![Python](https://skillicons.dev/icons?i=python) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![C++](https://skillicons.dev/icons?i=cpp) | ![SQL](https://skillicons.dev/icons?i=mysql) | ![Java](https://skillicons.dev/icons?i=java) | ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![Go](https://skillicons.dev/icons?i=go) | ![Rust](https://skillicons.dev/icons?i=rust) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Python | JavaScript | C++ | SQL | Java | TypeScript | Go | Rust |
 
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-
-  <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
-  <img width="12" />
-
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-
-  <!-- Go -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
-  <img width="12" />
-
-  <!-- Rust -->
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust logo" />
-<img width="12" />
-</div>
+---
 
 ### 🚀 Frameworks & Libraries
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express.js](https://skillicons.dev/icons?i=express) | <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/> | ![Flask](https://skillicons.dev/icons?i=flask) | <img src="https://nestjs.com/img/logo-small.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Node.js | Express.js | FastAPI | Flask | NestJS | OpenCV | TensorFlow | PyTorch | Scikit-learn |
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+---
+ 
 ### 🛢️ Databases
-<div align="left">
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
+| ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |![Redis](https://skillicons.dev/icons?i=redis) |
+|:--:|:--:|:--:|
+| MongoDB | PostgreSQL | Redis |
 
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-
-  <!-- Redis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" />
-</div>
+---
 
 ### 🧰 Tools & DevOps
-<div align="left">
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
+| ![Docker](https://skillicons.dev/icons?i=docker) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Heroku](https://skillicons.dev/icons?i=heroku) | ![Git](https://skillicons.dev/icons?i=git) | ![Postman](https://skillicons.dev/icons?i=postman) | ![Figma](https://skillicons.dev/icons?i=figma) | ![Linux](https://skillicons.dev/icons?i=linux) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Docker | GitHub Actions | Heroku | Git | Postman | Figma | Linux |
 
-  <!-- GitHub Actions -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img width="12" />
-
-  <!-- Heroku -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku logo" />
-  <img width="12" />
-
-  <a href="https://render.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/harshhpareek/render-icon-host/main/render-logo.png" height="40" alt="Render logo" />
-</a>
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-
-  <!-- Postman -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
-</div>
+---
 
 ### 🧩 Projects 
-- 🔭 [ Repsonsible AI Dash Board (RADD)](https://github.com/Pranaykamble000/RADD) - AI + Ethics + Explainable AI project.
-- 🧠 [Netflix clone using frontend language](https://github.com/Pranaykamble000/Netflix-Clone) - Built with **HTML**, **CSS**, and **Javascript**(Fully responsive Netflix UI).
-- 🔎 [Vehicle Speed Detector](https://github.com/Pranaykamble000/vehicle-speed-detection) - Built with yhe help of python libraries like **openCV**, **YOLOv8**, **Deep SORT** , **Ultralytics**, **Numpy**, **Pandas**
+## 🚀 My Featured Projects
+
+### 🔭 [Responsible AI Dashboard (RADD)](https://github.com/Pranaykamble000/RADD)
+> **AI | Ethics | Explainable AI**
+
+🧠 A powerful dashboard combining responsible AI principles with NLP and XAI techniques to build **transparent and ethical AI systems**.  
+💡 **Key Features:**
+- Built with Python, Streamlit, and Explainable AI.
+- Promotes fair, auditable AI models.
+- Showcases AI ethics in action.
+
+---
+
+### 🚗 [Vehicle Speed Detection](https://github.com/Pranaykamble000/vehicle-speed-detection)
+> **Computer Vision | Real-Time Tracking | YOLOv8**
+
+🎯 A real-time vehicle speed detection system using **YOLOv8 + Deep SORT + OpenCV**, built with a clean modular folder structure.  
+📦 **Key Features:**
+- Object detection using YOLOv8 (Ultralytics).
+- Real-time tracking via Deep SORT.
+- Speed estimation + CSV logging.
+
+🔍 **Tech Stack:** `Python`, `OpenCV`, `YOLOv8`, `NumPy`, `Pandas`, `Ultralytics`  
+
+---
+
+### 🎬 [Netflix UI Clone](https://github.com/Pranaykamble000/Netflix-Clone)
+> **Frontend Project | HTML/CSS/JS**
+
+🎥 A fully responsive and stylish clone of the Netflix homepage UI.  
+🧩 **Key Features:**
+- Built using pure HTML, CSS, and JavaScript.
+- Interactive design and mobile-friendly layout.
+- Simulates Netflix landing page.
+
+📱 **Tech Stack:** `HTML`, `CSS`, `JavaScript`  
+
+---
 
 ### 📫 Connect with Me
 
-<div align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/pranay-kamble-180b89367" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn logo" />
-  </a>
-  <img width="12" />
-
-  <!-- GitHub -->
-  <a href="https://github.com/pranaykamble" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub logo" />
-  </a>
-  <img width="12" />
-
-  <!-- Email -->
-  <a href="mailto:pranaykamble102007@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Email logo" />
-  </a>
+<div align="center">
+<h3>Profile Info</h3>
+ <kbd>
+  <div align="center">
+   <p>
+    <strong>Contact Me</strong>
+  <br><br>
+ <a href="https://www.linkedin.com/in/pranay-kamble-180b89367" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn logo"/>
+</a>    
+<a href="https://github.com/pranaykamble" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub logo"/>
+</a>
+<a href="mailto:pranaykamble102007@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail logo"/>
+</a>
+</p>
 </div>
+</kbd>
+</div>
+
+<hr/>
+
+<h2 align="center">🌟 Thank You for Visiting!</h2>
+
+<p align="center">
+  I'm truly grateful you stopped by my GitHub profile.  
+  Whether you're here to explore, learn, or collaborate — welcome! 😊
+</p>
+
+<p align="center">
+  If you found something helpful or inspiring, consider giving a ⭐ to a repo —  
+  it means a lot and helps me grow as a developer!
+</p>
+
+<p align="center">
+  <b>Let’s connect, build, and create amazing things together.</b>
+</p>
+
+<p align="center">
+  🚀 <i>“Stay curious, keep coding, and never stop learning.”</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D0FF&center=true&vCenter=true&width=440&lines=See+you+around+👋;Keep+Building+%F0%9F%9A%80;Keep+Learning+Every+Day!+📚" />
+</p>
