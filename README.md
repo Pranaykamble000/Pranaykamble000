@@ -95,7 +95,7 @@
   <img width="12" />
 
   <!-- Render -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Render-logo.svg" height="40" alt="Render logo" /> 
+<img src="assets/render-logo.png" height="40" alt="Render logo" />
 
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
