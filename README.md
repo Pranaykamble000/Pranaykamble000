@@ -9,7 +9,7 @@
 - 🎯 Long-term Goal: Work in **HFT Firms**, **DE Shaw**, or **Big Tech**
 - 🧠 Passionate about **Mathematics**, **Physics**, and solving complex problems
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 #### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
