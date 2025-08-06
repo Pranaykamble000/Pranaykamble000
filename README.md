@@ -45,6 +45,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust logo" />
 <img width="12" />
 </div>
+
 ### 🚀 Frameworks & Libraries
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -93,8 +94,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku logo" />
   <img width="12" />
 
-  <!-- Render (custom hosted icon, as Devicon doesn't have one) -->
-  <img src="https://raw.githubusercontent.com/FrancescoXX/100-days-of-devOps/main/misc/render.png" height="40" alt="Render logo" />
+  <!-- Render -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="40" alt="Render logo" />
   <img width="12" />
 
   <!-- Git -->
@@ -104,6 +105,7 @@
   <!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
 </div>
+
 ### 🧩 Projects 
 - 🔭 [ Repsonsible AI Dash Board (RADD)](https://github.com/Pranaykamble000/RADD) - AI + Ethics + Explainable AI project.
 - 🧠 [Netflix clone using frontend language](https://github.com/Pranaykamble000/Netflix-Clone) - Built with **HTML**, **CSS**, and **Javascript**(Fully responsive Netflix UI).
