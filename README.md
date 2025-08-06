@@ -105,14 +105,17 @@
    <p>
     <strong>Contact Me</strong>
   <br><br>
+ <a href="mailto:pranaykamble102007@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail logo"/>
+</a> 
  <a href="https://www.linkedin.com/in/pranay-kamble-180b89367" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn logo"/>
 </a>    
 <a href="https://github.com/pranaykamble" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub logo"/>
 </a>
-<a href="mailto:pranaykamble102007@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail logo"/>
+<a href="https://x.com/Pranaykamble000" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter logo"/>
 </a>
 </p>
 </div>
