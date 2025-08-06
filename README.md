@@ -94,8 +94,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku logo" />
   <img width="12" />
 
-  <!-- Render -->
-<img src="assets/render-logo.png" height="40" alt="Render logo" />
+  <a href="https://render.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/harshhpareek/render-icon-host/main/render-logo.png" height="40" alt="Render logo" />
+</a>
 
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
