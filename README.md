@@ -51,18 +51,20 @@
 ### 📫 Connect with Me
 
 <div align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/pranay-kamble-180b89367" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
 
+  <!-- GitHub -->
   <a href="https://github.com/pranaykamble" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub logo" />
   </a>
   <img width="12" />
-  
 
+  <!-- Email -->
   <a href="mailto:pranaykamble102007@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Email logo" />
   </a>
 </div>
