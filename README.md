@@ -108,7 +108,7 @@
  <a href="mailto:pranaykamble102007@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail logo"/>
 </a> 
- <a href="https://www.linkedin.com/in/pranaykamble" target="_blank">
+ <a href="https://www.linkedin.com/in/pranay-kamble" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn logo"/>
 </a>    
 <a href="https://github.com/pranaykamble000" target="_blank">
